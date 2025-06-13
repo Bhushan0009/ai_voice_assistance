@@ -1,0 +1,8 @@
+speechrecognition
+python-dotenv
+transformers
+pyaudio
+serpapi
+pyttsx3
+torch
+groq
