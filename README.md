@@ -1,15 +1,30 @@
-AI Voice Assistance
-In this reepository we use different APIs for creating AI Voice Assistance using python libraries.
+# AI Voice Assistance
 
-Steps to Run Codes - 
+In this repository we use different APIs for creating AI Voice Assistance using python libraries.
 
+## Steps to Run Code
 Create Virtual Enviroment (Optional)
-Command - python -m venv venv_name
 
-Step-1 : Install all the requirements from requirements.txt file.
-Command - pip install -r requirements.txt
+```bash
+python -m venv venv_name
+```
 
-Step-2 : Create a .env file to save your APIs security keys.
+Step 1 : Install all the requirements from requirements.txt file.
 
-Step-3 : Run your code in terminal.
-Command - python filename.py
+```bash
+pip install -r requirements.txt
+```
+
+Step 2 : Create a .env file to save your APIs security keys.
+
+Step 3 : Run your code in terminal.
+
+```bash
+ python filename.py
+```
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
